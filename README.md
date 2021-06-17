@@ -1,7 +1,7 @@
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ha-mulan/)](https://velog.io/@ha-mulan/)
- [![ha-mulan's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/ha-mulan/github-readme-stats)
+ [![ha-mulan's github stats](https://github-readme-stats.vercel.app/api?username=ha-mulan)](https://github.com/ha-mulan/github-readme-stats)
 
 <!--
 **ha-mulan/ha-mulan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
