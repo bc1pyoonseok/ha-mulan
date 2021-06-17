@@ -14,14 +14,15 @@
 <h3 align="center"💫 Technology Stack💫</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-C++-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-MySQL-navy"/>
+  <img src="https://img.shields.io/badge/-C++-navy"/>&nbsp
+  <img src="https://img.shields.io/badge/-PYTORCH-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-OPENCV-green"/>
   <br>
   <!--<img src="https://img.shields.io/badge/-Django-blue"/>&nbsp-->
   <br>
   <!--<img src="https://img.shields.io/badge/-AWS-black"/>&nbsp-->
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+ <img src="https://img.shields.io/badge/-DOCKER-blue"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
