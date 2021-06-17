@@ -10,7 +10,7 @@
 -->
 
 
-<!--<h3 align="center"> 👋 Hi there 👋 </h3> -->
+<h3 align="center"> "💫 Technology Stack💫 </h3> 
 <h3 align="center"💫 Technology Stack💫</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
