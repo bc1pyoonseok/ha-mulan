@@ -28,7 +28,7 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
+
 
 <!--
 **ha-mulan/ha-mulan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
