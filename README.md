@@ -13,18 +13,18 @@
 <h2 align="center"> 💫 Technology Stack💫 </h3> 
 <h3 align="center"💫 Technology Stack💫</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-C++-navy"/>&nbsp
  <img src="https://img.shields.io/badge/-C-navy"/>&nbsp
  
   <br>
-  <img src="https://img.shields.io/badge/-PYTORCH-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-OPENCV-green"/>
+  <img src="https://img.shields.io/badge/-Pytorch-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-OpenCv-green"/>
   <!--<img src="https://img.shields.io/badge/-Django-blue"/>&nbsp-->
   <br>
   <!--<img src="https://img.shields.io/badge/-AWS-black"/>&nbsp-->
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
- <img src="https://img.shields.io/badge/-DOCKER-blue"/>&nbsp
+ <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
