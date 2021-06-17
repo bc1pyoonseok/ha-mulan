@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ha-mulan/)](https://velog.io/@ha-mulan/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ha-mulan/)](https://velog.io/@ha-mulan/)
 
 
 <!--
