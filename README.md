@@ -15,9 +15,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-C++-navy"/>&nbsp
+ <img src="https://img.shields.io/badge/-C-navy"/>&nbsp
+ 
+  <br>
   <img src="https://img.shields.io/badge/-PYTORCH-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-OPENCV-green"/>
-  <br>
   <!--<img src="https://img.shields.io/badge/-Django-blue"/>&nbsp-->
   <br>
   <!--<img src="https://img.shields.io/badge/-AWS-black"/>&nbsp-->
