@@ -1,6 +1,7 @@
 ### Hi there 👋
+ <div align=center>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ha-mulan/)](https://velog.io/@ha-mulan/)
-
+ </div>
 
 <!--
 **ha-mulan/ha-mulan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
