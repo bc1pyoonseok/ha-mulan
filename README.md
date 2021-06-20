@@ -25,6 +25,11 @@
   <!--<img src="https://img.shields.io/badge/-AWS-black"/>&nbsp-->
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
+ <br>
+ 🌱 I’m currently learning ...
+ <br>
+ <img src="https://img.shields.io/badge/-AWS-pink"/>&nbsp
+ <img src="https://img.shields.io/badge/-django-blue"/>&nbsp
 </p>
 <div align=center>
  
