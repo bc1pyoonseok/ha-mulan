@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
  <br>
+ <br>
+ <br>
  🌱 I’m currently learning ...
  <br>
  <img src="https://img.shields.io/badge/-AWS-pink"/>&nbsp
