@@ -30,8 +30,8 @@
  <br>
  🌱 I’m currently learning ...
  <br>
- <img src="https://img.shields.io/badge/-AWS-pink"/>&nbsp
- <img src="https://img.shields.io/badge/-django-blue"/>&nbsp
+ <img src="https://img.shields.io/badge/-react-pink"/>&nbsp
+ <img src="https://img.shields.io/badge/-javascript-blue"/>&nbsp
 </p>
 <div align=center>
  
