@@ -20,9 +20,9 @@
   <br>
   <img src="https://img.shields.io/badge/-Pytorch-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-OpenCv-green"/>
-  <!--<img src="https://img.shields.io/badge/-Django-blue"/>&nbsp-->
+  <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
   <br>
-  <!--<img src="https://img.shields.io/badge/-AWS-black"/>&nbsp-->
+  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
  <img src="https://img.shields.io/badge/-Docker-blue"/>&nbsp
  <br>
