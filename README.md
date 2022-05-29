@@ -9,8 +9,8 @@
  </div>
 -->
 
-
-<h2 align="center">  💫💫💫💫💫 Technology Stack 💫💫💫💫💫 </h3> 
+<h3 align="center"> 🔭 I’m currently working on Bear robotics</h3>
+<h3 align="center">  💫💫💫💫💫 Technology Stack 💫💫💫💫💫 </h3> 
 <h3 align="center"💫 Technology Stack💫</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
@@ -36,9 +36,10 @@
  
 </p>
 <div align=center>
- 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fha-mulan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ha-mulan/)](https://velog.io/@ha-mulan/)	
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ha-mulan)](https://www.linkedin.com/in/ha-mulan)
  <br>
   [![ha-mulan's github stats](https://github-readme-stats.vercel.app/api?username=ha-mulan)](https://github.com/ha-mulan/github-readme-stats)
   <br>
