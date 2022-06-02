@@ -30,6 +30,7 @@
  <br>
  🌱 I’m currently learning ...
  <br>
+ <img src="https://img.shields.io/badge/-bitcoin-orange"/>&nbsp
  <img src="https://img.shields.io/badge/-react-pink"/>&nbsp
  <img src="https://img.shields.io/badge/-javascript-blue"/>&nbsp
  <img src="https://img.shields.io/badge/-typescript-black"/>&nbsp
