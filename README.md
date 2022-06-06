@@ -9,7 +9,7 @@
  </div>
 -->
 
-<h3 align="center"> 🔭 I’m currently working on Bear robotics</h3>
+<h3 align="center"> Bear Robotics Software Engineer</h3>
 <h3 align="center">  💫💫💫💫💫 Technology Stack 💫💫💫💫💫 </h3> 
 <h3 align="center"💫 Technology Stack💫</h3>
 <p align="center">
