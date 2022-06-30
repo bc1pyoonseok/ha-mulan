@@ -17,6 +17,8 @@ BaekJoon
 </br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ham5312)](https://solved.ac/ham5312/)  
+<br> LeetCode </br>
+[![ha-mulan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fuck_ict&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </div>
 <h3 align="center">  💫💫💫💫💫 Technology Stack 💫💫💫💫💫 </h3> 
 <h3 align="center"💫 Technology Stack💫</h3>
