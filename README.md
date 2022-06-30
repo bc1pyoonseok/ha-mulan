@@ -6,12 +6,14 @@
   [![ha-mulan's github stats](https://github-readme-stats.vercel.app/api?username=ha-mulan)](https://github.com/ha-mulan/github-readme-stats)
   <br>
   <br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ham5312)](https://solved.ac/ham5312/)
   </br>
  </div>
 -->
 
 <h3 align="center"> Bear Robotics Software Engineer</h3>
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ham5312)](https://solved.ac/ham5312/)
+</br>
 <h3 align="center">  💫💫💫💫💫 Technology Stack 💫💫💫💫💫 </h3> 
 <h3 align="center"💫 Technology Stack💫</h3>
 <p align="center">
