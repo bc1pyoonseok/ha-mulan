@@ -10,7 +10,7 @@
  </div>
 -->
 
-<h3 align="center"> Bear Robotics Software Engineer</h3>
+<h3 align="center"> BearRobotics Software Engineer</h3>
 <div align=center>
 <br>
 BaekJoon  
